@@ -11,7 +11,7 @@ prompter==0.3.10
 Pygments==2.2.0
 PyInquirer==1.0.2
 pyreadline==2.1
-PyYAML==3.13
+PyYAML==5.4
 raven==6.9.0
 regex==2018.8.29
 requests==2.20.0
