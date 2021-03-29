@@ -8,7 +8,7 @@ idna==2.7
 lxml==4.2.5
 prompt-toolkit==1.0.14
 prompter==0.3.10
-Pygments==2.2.0
+Pygments==2.7.4
 PyInquirer==1.0.2
 pyreadline==2.1
 PyYAML==3.13
