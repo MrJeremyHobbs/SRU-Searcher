@@ -17,6 +17,6 @@ regex==2018.8.29
 requests==2.20.0
 six==1.11.0
 tqdm==4.28.1
-urllib3==1.24
+urllib3==1.26.5
 vkbeautify==0.3.0
 wcwidth==0.1.7
