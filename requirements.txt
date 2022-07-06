@@ -5,7 +5,7 @@ colorama==0.4.0
 coloredlogs==10.0
 humanfriendly==4.17
 idna==2.7
-lxml==4.2.5
+lxml==4.9.1
 prompt-toolkit==1.0.14
 prompter==0.3.10
 Pygments==2.2.0
